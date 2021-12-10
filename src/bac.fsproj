@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Stack.fs" />
+    <Compile Include="RStack.fs" />
+    <Compile Include="RealTimeDeque.fs" />
+    <Compile Include="RealTimeQueue.fs" />
+    <Compile Include="TreeDeque.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
